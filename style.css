@@ -1,0 +1,19 @@
+.container {
+	max-width: 700px;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+input {
+	width: 300.32px;
+	height: 28px;
+	border-radius: 5px;
+	margin: 2px;
+	box-sizing: border-box;
+}
+
+.btn_submit {
+	background-color: orange;
+	cursor: pointer;
+}
